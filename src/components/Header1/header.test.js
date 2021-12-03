@@ -1,5 +1,5 @@
 import { render, screen } from '@testing-library/react'
-import Header from './header'
+import Header from './Header1'
 
 describe('Header.jsx', () => {
     it('should render the correct header', () => {

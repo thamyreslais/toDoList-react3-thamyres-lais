@@ -1,0 +1,75 @@
+.main {
+    display: flex;
+    margin: 40px auto;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+    margin-top: 100px;
+}
+
+.main img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+
+}
+
+.main h2 {
+    font-weight: 900;
+    font-size: 42px
+}
+
+.title-card{
+    justify-content: center;
+    display: flex;
+    margin-top: 70px;
+}
+
+.card-container {
+    margin: 50px auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 30px;
+    width: 80%;
+    align-items: center;
+}
+
+.card {
+    height: 150px;
+    width: 300px;
+    background-color: rgb(243, 237, 160);
+    border-radius: 4px;
+    color: rgb(8, 8, 8);
+    padding: 8px;
+}
+
+.card h3 {
+    font-weight: 200;
+}
+
+.enter-repo{
+    bottom: 0;
+    margin-top: 100%;
+}
+
+.redes-sociais{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    text-justify: auto;
+    width: 550px;
+    height: 350px;
+    font-size: 24px;
+    margin: 40px auto;
+}
+
+.redes-sociais p{
+    text-align: center;
+}
+
+.contato{
+    font-size: 36px;
+}

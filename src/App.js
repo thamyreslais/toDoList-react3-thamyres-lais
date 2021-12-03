@@ -1,11 +1,10 @@
-import Header from "./components/Header/Header";
-import List from "./components/List/List";
+import Rotas from "./routes/Rotas";
 
 function App() {
   return (
     <>
-    <Header/>
-    <List/>
+    <Rotas/>
+    
     </>
   )
 }
